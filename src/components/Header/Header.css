@@ -1,0 +1,8 @@
+.active-menu {
+    background-color: #202b35;
+}
+
+.active-menu a {
+    color: white !important;
+    font-weight: 800;
+}

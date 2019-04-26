@@ -1,0 +1,16 @@
+.loader_outer:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.loader_inner {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: -0.35em;
+}
+
+.loader_outer {
+    text-align: center;
+}

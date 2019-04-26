@@ -1,0 +1,7 @@
+.comment-replay {
+    cursor: pointer;
+}
+
+.comment-replay:hover {
+    color: black;
+}
